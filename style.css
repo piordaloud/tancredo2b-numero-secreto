@@ -1,12 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@500&display=swap');
 
 :root {
-    --font-family: 'Nunito' , sans-serif;
-    --bg-color: #6499E9;
-    --primary-color: #BEFFF7;
-    --secundary-color: #6499E9;
-    --detalhes: #A6F6FF;
-
+font-family: 'sans', cursive;
+--bg-color: #ffffff;
+--primary-color: #000000;
 }
 
 body {
